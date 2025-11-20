@@ -1,0 +1,4 @@
+This mod fixes vanilla armor defense by balancing them based on progression order.
+A prime example of this is that the Stardust armor set only provides a total of 38 defense, and it is an endgame set. Why? I do not know.
+
+I hope you enjoy!
